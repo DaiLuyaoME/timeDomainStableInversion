@@ -1,2 +1,2 @@
-# Nonlinear-Feedback-Control
-MATLAB simulation code for nonlinear feedback control
+# Research on time domain stable inversion feedforward control
+MATLAB simulation code for time domain stable inversion feedforward control.
